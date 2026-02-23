@@ -1,3 +1,3 @@
 # VTIRF-Design-Using-a-Transformer
 
-主要程式放在Transformer_for_VTIRF.ipynb，一些額外需要的function放在o
+主要程式放在Transformer_for_VTIRF.ipynb，一些結果分析程式放在Other_calculation.ipynb。更詳細說明請看：https://thundering-capybara-3fb.notion.site/Transformer-VTIRF-199b87fb4849800e804dd441709318c7
